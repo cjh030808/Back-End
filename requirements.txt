@@ -1,2 +1,3 @@
-uvicorn[standard]
-FastAPI
+fastapi[standard]
+google-genai
+python-dotenv
