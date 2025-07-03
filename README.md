@@ -1,3 +1,4 @@
+```
 backend/
 ├── app/                      # FastAPI 소스코드의 메인 디렉토리
 │   ├── main.py               # FastAPI 앱의 시작점. 앱 인스턴스 생성, 미들웨어/라우터 포함
@@ -31,3 +32,4 @@ backend/
 ├── .env                      # 환경변수 파일 (DB 접속 정보, API 키 등). 절대로 Git에 올리면 안 됨!
 ├── .gitignore                # Git 추적 제외 목록
 └── requirements.txt          # 프로젝트 의존성 패키지 목록
+```
